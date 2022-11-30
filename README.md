@@ -13,3 +13,6 @@
  
  🥅 Goals:
   - Embedded Systems IR Receiver/Transmitter Driver for Tiva Evaluation board (More info to come...)
+  
+   👀 See More:
+ - [Embedded Infrared Receiver/Transmitter](https://www.johnpauljones.me/ir-reciever-transmitter "IR Rec/Trans Embedded")
