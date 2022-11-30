@@ -6,7 +6,7 @@
  - C Programming Language
  - Code Composer Studio
  - Tiva TM4C123GXL ARM Cortex Evaluation Board
- - Custom Circuit Prototype Board (IR Transmitter/Receiver, Transistors, Resistors, Speaker etc.)
+ - Custom Circuit Prototype Board (Infrared transmitter/receiver, transistors, capacitors resistors, speaker etc.)
  - Infrared Remote
  - Oscilloscope
  - Logic Analyzer
