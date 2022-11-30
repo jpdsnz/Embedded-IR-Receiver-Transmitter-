@@ -1,5 +1,7 @@
 # 🔊 Embedded IR Receiver/Transmitter
 
+![pic](https://raw.githubusercontent.com/jpdsnz/jpdsnz/main/IRembedded.jpg)
+
 🔧 Tools Used:
  - C Programming Language
  - Code Composer Studio
