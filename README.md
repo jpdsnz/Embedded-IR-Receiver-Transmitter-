@@ -1,7 +1,7 @@
 # 🔊 Embedded IR Receiver/Transmitter
 
 <p align="center">
-      <img width="70%" height="70%" src="https://raw.githubusercontent.com/jpdsnz/jpdsnz/main/IRembedded.jpg">
+      <img width="75%" height="75%" src="https://raw.githubusercontent.com/jpdsnz/jpdsnz/main/IRembedded.jpg">
 </p>
 
 <p align="center">
