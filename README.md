@@ -2,7 +2,7 @@
 
 ![pic](https://raw.githubusercontent.com/jpdsnz/jpdsnz/main/IRembedded.jpg)
 
-🔧 Tools Used:
+## 🔧 Tools Used:
  - C Programming Language
  - Code Composer Studio
  - Tiva TM4C123GXL ARM Cortex Evaluation Board
@@ -11,8 +11,8 @@
  - Oscilloscope
  - Logic Analyzer
  
- 🥅 Goals:
+## 🥅 Goals:
   - Embedded Systems IR Receiver/Transmitter Driver for Tiva Evaluation board (More info to come...)
   
-   👀 See More:
+## 👀 See More:
  - [Embedded Infrared Receiver/Transmitter](https://www.johnpauljones.me/ir-reciever-transmitter "IR Rec/Trans Embedded")
