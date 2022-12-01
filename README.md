@@ -1,6 +1,15 @@
 # 🔊 Embedded IR Receiver/Transmitter
 
-![pic](https://raw.githubusercontent.com/jpdsnz/jpdsnz/main/IRembedded.jpg)
+<p align="center">
+      <img width="70%" height="70%" src="https://raw.githubusercontent.com/jpdsnz/jpdsnz/main/IRembedded.jpg">
+</p>
+
+<p align="center">
+      <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/cprogram.png">
+      <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/ti-white2.png">
+      <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/TIDevBoard.png">
+      <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/ccc.png">
+</p>
 
 ## 🔧 Tools Used:
      - C Programming Language
